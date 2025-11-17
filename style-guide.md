@@ -113,7 +113,7 @@ Inline `code` has `back-ticks around` it.
 
 ### For YouTube:
 
-{% youtube "https://www.youtube.com/watch?v=AMVnjkEgnyM" %}
+
 
 ### For Vimeo:
 
