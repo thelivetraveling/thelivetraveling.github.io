@@ -8,6 +8,12 @@
 # only {url}, {title}, {text} are supported. {title} and {text} are the same.
 # keys need to match with share. Tooltip definitions in _data/lang/[language].yml file
 
+- instagram:
+  icon: "fa fa-instagram"
+  url: "https://instagram.com/"
+- tiktok:
+  icon: "fa-brand fa-tiktok"
+  url: "https://tiktok.com/"
 - twitter:
   icon: "fa fa-twitter-square"
   url: "https://twitter.com/intent/tweet?url={url}&text={title}"

@@ -104,6 +104,8 @@ post:
     link_copied: Enlace copiado!
     tooltip:
       # keys need to match with _data/share.yml
+      instagram: Instagram
+      tiktok: TikTok
       twitter: Twitter
       facebook: Facebook
       telegram: Telegram

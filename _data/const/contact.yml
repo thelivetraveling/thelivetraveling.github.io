@@ -12,31 +12,34 @@
 #   * the image should be square
 # keys need to match with accounts in _data/owner/[language].yml file
 
-github:
-  icon: "fa fa-github"
-  url: "https://github.com"
-email:
-  icon: "fa fa-envelope-o"
-  url: ""
-linkedin:
-  icon: "fa fa-linkedin"
-  url: "https://www.linkedin.com/in"
-twitter:
-  icon: "fa fa-twitter"
-  url: "https://twitter.com"
-mastodon:
-# The mastodon svg file was obtained from this link: https://github.com/mastodon/joinmastodon/blob/master/public/logos/logo-black.svg
-  icon: "/assets/img/default/mastodon.svg"
-  url: "https://mastodon.social"
 instagram:
   icon: "fa fa-instagram"
   url: "https://www.instagram.com"
+tiktok:
+  icon: "fa-brand fa-tiktok"
+  url: "https://www.tiktok.com"
 youtube:
   icon: "fa fa-youtube-play"
   url: "https://www.youtube.com/channel"
-facebook:
-  icon: "fa fa-facebook"
-  url: "https://www.facebook.com"
+twitter:
+  icon: "fa fa-twitter"
+  url: "https://twitter.com"
+github:
+  icon: "fa fa-github"
+  url: "https://github.com"
+linkedin:
+  icon: "fa fa-linkedin"
+  url: "https://www.linkedin.com/in"
+# facebook:
+#   icon: "fa fa-facebook"
+#   url: "https://www.facebook.com"
+email:
+  icon: "fa fa-envelope-o"
+  url: ""
+# mastodon:
+# # The mastodon svg file was obtained from this link: https://github.com/mastodon/joinmastodon/blob/master/public/logos/logo-black.svg
+#   icon: "/assets/img/default/mastodon.svg"
+#   url: "https://mastodon.social"
 # add your new contact
 # your_new_contact:
 #   icon: "fa fa-font"
